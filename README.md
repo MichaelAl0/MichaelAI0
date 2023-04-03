@@ -49,6 +49,7 @@
 </a>
 <a href="mailto:alphasni@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" /></a>
+<img align="right" height="200" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
@@ -59,7 +60,6 @@
 
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAl0&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-<img align="right" height="200" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
 
 </div>
 
