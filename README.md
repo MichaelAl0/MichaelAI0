@@ -1,6 +1,6 @@
 # 👨🏾‍💼 Michael A. Harris
 
-<h2>Software Engineer (Web Developer/Front-End Developer/Security Enthusiast🔐)</h2>
+**`Software Engineer (Web Developer/Front-End Developer/Security Enthusiast🔐)`**
 
 <h3> Hello there! I'm currently honing my skills as a Software Engineer, working with Ruby's backend API and Angular for frontend projects. Additionally, I'm attending a backend coding bootcamp, where I'm learning more about full-stack development. As a self-motivated learner, I'm always seeking to expand my knowledge and stay up-to-date with the latest technologies. My ultimate goal is to use my expertise to contribute to innovative projects that can make a meaningful impact on the world.👨🏾‍💻</h3>
 
