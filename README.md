@@ -59,7 +59,7 @@
 
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAl0&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-<img align="right" height="300" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
+<img align="right" height="250" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
 
 </div>
 
