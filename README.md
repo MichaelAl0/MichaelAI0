@@ -61,5 +61,6 @@ Hello there! I'm currently honing my skills as a Software Engineer, working with
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAl0&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAl0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true) -->
-<img src="https://giphy.com/embed/1CEoPFtZIIHbG" />
+
 </div>
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/1CEoPFtZIIHbG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
