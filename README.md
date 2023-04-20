@@ -45,14 +45,14 @@
 
 <h2>🖥 How to contact me..</h2>
 <a href="https://www.linkedin.com/in/michaelai0/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
 </a>
-<a href="mailto:alphasni@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" /></a>
-<img align="right" height="300" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
-<!-- BEGIN YOUTUBE-CARDS -->
 
-<!-- END YOUTUBE-CARDS -->
+<a href="mailto:alphasni@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" />
+</a>
+<img align="right" height="250" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
+
 <br/>
 
 <h2>💫 Stats 🧘🏿‍♂️<h2>
@@ -60,10 +60,9 @@
 
 ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAl0&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAl0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true) -->
-
 </div>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAl0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true) -->
 <!-- ![Alt Text](https://media.giphy.com/media/1CEoPFtZIIHbG/giphy.gif) -->
 <!-- ![Alt Text](https://media.giphy.com/media/UUHUfrG6NsXzG/giphy.gif) -->
+
