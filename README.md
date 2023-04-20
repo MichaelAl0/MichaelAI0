@@ -58,7 +58,7 @@
 <h2>💫 Stats 🧘🏿‍♂️<h2>
 <div style="display: inline-flex; gap: 10px;">
 
-![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAl0&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAI0&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 </div>
 
