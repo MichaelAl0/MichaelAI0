@@ -57,11 +57,10 @@
 
 <h2>💫 Stats 🧘🏿‍♂️<h2>
 <div style="display: inline-flex; gap: 10px;">
-
-![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAI0&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAI0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
 </div>
 
+<!-- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAI0&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAl0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true) -->
 <!-- ![Alt Text](https://media.giphy.com/media/1CEoPFtZIIHbG/giphy.gif) -->
 <!-- ![Alt Text](https://media.giphy.com/media/UUHUfrG6NsXzG/giphy.gif) -->
