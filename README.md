@@ -2,7 +2,7 @@
 
 **`Software Engineer (Web Developer/Full-Stack Developer/Security Enthusiast🔐)`**
 
-<h3> Hi! I'm currently honing my skills as a Software Engineer, working with Ruby's backend API and Angular for frontend projects. Additionally, I'm attending a backend coding bootcamp, where I'm learning more about full-stack development. As a self-motivated learner, I'm always seeking to expand my knowledge and stay up-to-date with the latest technologies. My ultimate goal is to use my expertise to contribute to innovative projects that can make a meaningful impact on the world.👨🏾‍💻</h3>
+<h3> Hi! I'm currently honing my skills as a Software Engineer, working with Ruby's backend API and Angular for frontend projects. Additionally, I have graduated from a backend coding bootcamp, where I learned more about full-stack development. As a self-motivated learner, I'm always seeking to expand my knowledge and stay up-to-date with the latest technologies. My ultimate goal is to use my expertise to contribute to innovative projects that can make a meaningful impact on the world.👨🏾‍💻</h3>
 
 <br />
 <hr>
@@ -57,7 +57,9 @@
 
 <h2>💫 Stats 🧘🏿‍♂️<h2>
 <div style="display: inline-flex; gap: 10px;">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAI0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+
 </div>
 
 <!-- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAI0&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
