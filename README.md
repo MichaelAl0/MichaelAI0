@@ -1,8 +1,8 @@
 # 👨🏾‍💼 Michael A. Harris
 
-**`(Web Developer/Full-Stack Developer/Security Enthusiast🔐)`**
+**`(Full-Stack Developer/ Security Enthusiast🔐)`**
 
-<h3> Hi! I'm currently honing my skills as a Software Engineer, working with Ruby's backend API and Angular for frontend projects. Additionally, I have graduated from a backend coding bootcamp, where I learned more about full-stack development. As a self-motivated learner, I'm always seeking to expand my knowledge and stay up-to-date with the latest technologies. My ultimate goal is to use my expertise to contribute to innovative projects that can make a meaningful impact on the world.👨🏾‍💻</h3>
+<h3> Hi everyone! I'm MichaelAI0, a code coach with Codefi CodeLabs. I've been teaching the fundamentals of coding for HTML, CSS, and JavaScript for the past year, and I'm excited to start learning more advanced topics like Java development. I'm passionate about helping others learn to code, and I believe that everyone has the potential to be a great coder. My ultimate goal is to use my skills to make a meaningful impact on the world by helping people develop the skills they need to succeed in the tech industry and solve real-world problems.👨🏾‍💻</h3>
 
 <br />
 <hr>
