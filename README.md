@@ -37,7 +37,6 @@
 
 <img align="left" alt="NodeJS" width="30px" style="padding:15px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
 
-<img align="left" alt="NodeJS" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 <br/>
 <br />
