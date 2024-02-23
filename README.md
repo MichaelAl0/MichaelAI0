@@ -1,4 +1,4 @@
-# 👨🏾‍💼 Michael A. Harris
+# 👨🏾‍💼 Michael Harris
 
 **`(Full-Stack Developer/ Security Enthusiast🔐)`**
 
