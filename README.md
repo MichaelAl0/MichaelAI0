@@ -1,4 +1,4 @@
-# 👨🏾‍💼 MichaelAIO
+# 💫 MichaelAIO
 
 **`(A Developer)`**
 <!--
