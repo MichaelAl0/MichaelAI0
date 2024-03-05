@@ -46,6 +46,7 @@
 <a href="mailto:alphasni@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" />
 </a>
+
 <img align="right" height="250" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
 
 <br/>
