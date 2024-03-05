@@ -20,7 +20,7 @@
 
 <img align="left" alt="PostgreSQL" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-<img align="left" alt="TailwindCSS" width="30px" style="padding:15px; src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="TailwindCSS" width="30px" style="padding:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     
 <img align="left" alt="Ruby" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 
