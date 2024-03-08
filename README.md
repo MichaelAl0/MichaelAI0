@@ -1,9 +1,9 @@
 # 💫 MichaelAIO
 
 **`(A Developer)`**
-<!--
+
 <h3>👨🏾‍💻 Hello everyone! I'm Michael, deeply passionate about teaching and guiding others in their coding journey. Over the past year, I've dedicated myself to demystifying the fundamentals of HTML, CSS, and JavaScript for those eager to learn. Now, as I embark on exploring the intricacies of Java development, my excitement to share this knowledge and grow together with my students is at its peak. I firmly believe in the transformative power of coding and its potential to unlock limitless opportunities for anyone willing to learn. My goal is to make a significant impact by enabling others to succeed in the tech industry, thereby contributing to solving real-world problems through technology.</h3>
--->
+
 <br />
 
 <h2>💼 Languages and Tools</h2>
