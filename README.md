@@ -1,63 +1,56 @@
 # 💫 MichaelAIO
+> "Why do programmers prefer dark mode? Because light attracts bugs! 🪲"
+**`Full-Stack Developer | Bug Hunter | Coffee Enthusiast`**
 
-**`(A Developer)`**
+## 🎯 Current Mission
+Building scalable solutions while my coffee gets cold. Again.
 
-<h3>👨🏾‍💻</h3>
+## 💼 Tech Arsenal
 
-<br />
-
-<h2>💼 Languages and Tools</h2>
-
-<img align="left" alt="HTML" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
-<img align="left" alt="CSS" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<img align="left" alt="JavaScript" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="TypeScript" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
-<img align="left" alt="AngularJS" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-
-<img align="left" alt="PostgreSQL" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-<img align="left" alt="TailwindCSS" width="30px" style="padding:15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    
-<img align="left" alt="Ruby" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-
-<img align="left" alt="Rails" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-
-<img align="left" alt="Rails" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="Ubuntu" width="30px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-          
-
-
-<br/>
-<br />
-<br />
-
-<h2>🖥 How to contact me..</h2>
-<a href="https://www.linkedin.com/in/michaelai0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-</a>
-
-<a href="mailto:alphasni@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail logo" />
-</a>
-
-<img align="right" height="250" src="https://media.giphy.com/media/3o7qDY0YN8P6ukC1Qk/giphy.gif"/>
-
-<br/>
-
-<h2>💫 Stats 🧘🏿‍♂️<h2>
-<div style="display: inline-flex; gap: 10px;">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAI0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
-
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="AngularJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="TailwindCSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img alt="Rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+  <img alt="Redis" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </div>
 
+## 🏆 Achievements
+- 🎮 Created a self-playing Tetris AI using neural networks
+- 🌱 Contributed to 50+ open source projects while sleeping
+- ☕️ Achieved perfect coffee-to-code ratio (2.5 cups per feature)
+- 🤖 Built a bot that automatically responds to "It's not a bug, it's a feature"
+
+## 🌟 Fun Facts
+```javascript
+const michael = {
+  favoriteEditor: "VS Code (Dark+ theme, obviously)",
+  debuggingTool: "console.log('why!???!!!!')",
+  coffeeCount: Infinity,
+  location: "Between keyboard and coffee machine"
+};
+```
+
+## 🎮 Stats & Mini-Game
+
+<div class="stats-container" style="display: flex; justify-content: space-between; align-items: flex-start;">
+ <div class="stats">
+   <h3>💫 GitHub Analytics</h3>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAI0&hide=html&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Language Stats"/>
+ </div>
+
+<details>
+<summary>💭 Random Dev Quote</summary>
+<br>
+"In case of fire: git commit, git push, exit building 🔥"
+</details>
 <!-- ![Fred GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAI0&show_icons=true&theme=vision-friendly-dark&hide_border=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAl0&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true) -->
 <!-- ![Alt Text](https://media.giphy.com/media/1CEoPFtZIIHbG/giphy.gif) -->
